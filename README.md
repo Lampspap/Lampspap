@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lampspap
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning automation tools
-- 💞️ I’m looking to collaborate on mobile testing
+- 🌱 I’m currently expending in IT project management
 - 📫 How to reach me? Just text me!
 
 <!---
